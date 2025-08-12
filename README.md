@@ -9,25 +9,30 @@ Easily change the hero section title, subtitle, button text, URL, and theme colo
 
 customizer-color-switcher/
 │
-├── assets/
-├── dist/
-├── node_modules/
-├── screenshots/
-│ ├── theme-folder-structure.png
-│ ├── screenshot-customizer-ui.png
-│ ├── frontend-hero-section.png
-│ └── screenshot-tailwind-build.png
-├── src/
-├── footer.php
-├── front-page.php
-├── functions.php
-├── header.php
-├── index.php
-├── package.json
-├── package-lock.json
-├── postcss.config.js
-├── style.css
-├── tailwind.config.js
+├── assets/                     # Theme assets (JS, images, fonts etc.)
+│
+├── dist/                       # Compiled CSS & JS files (e.g. Tailwind output)
+│
+├── node_modules/               # Node dependencies
+│
+├── screenshots/                # Theme screenshots for WordPress dashboard
+│   ├── theme-folder-structure.png
+│   ├── screenshot-customizer-ui.png
+│   ├── frontend-hero-section.png
+│   └── screenshot-tailwind-build.png
+│
+├── src/                        # Source files (JS, CSS, components)
+│
+├── footer.php                  # Theme footer template
+├── front-page.php              # Front page template
+├── functions.php               # Theme functions (enqueue, customizer, etc.)
+├── header.php                  # Theme header template
+├── index.php                  # Main template file
+├── package.json                # NPM package config
+├── package-lock.json           # NPM package lock
+├── postcss.config.js           # PostCSS config (for Tailwind)
+├── style.css                  # Main stylesheet (theme meta info + custom styles)
+├── tailwind.config.js          # Tailwind CSS config file
 
 ---
 
@@ -64,5 +69,5 @@ npx tailwindcss -i ./src/input.css -o ./dist/style.css --watch
 👨‍💻 Developed By
 Mahbub Shaki
 WordPress Theme Developer | Tailwind CSS Enthusiast
-🌐 Upwork Profile
+🌐 Upwork Profile: https://www.upwork.com/freelancers/~015df70a23d7f58180
 📧 mahbubshaki64@gmail.com
