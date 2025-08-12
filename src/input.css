@@ -1,0 +1,11 @@
+/* src/input.css */
+
+:root {
+  --primary-color: #3490dc;    /* Default primary color */
+  --secondary-color: #ff6363;  /* Default secondary color */
+}
+
+/* Tailwind base, components, utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
