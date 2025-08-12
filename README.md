@@ -5,28 +5,28 @@ Easily change the hero section title, subtitle, button text, URL, and theme colo
 
 ---
 
-## 📂 Theme Folder Structure
+## 📂 Theme Folder Structure: customizer-color-switcher
 
 customizer-color-switcher/
-├── assets/
-├── dist/
-├── node_modules/
-├── screenshots/
+├── assets/                     # Theme assets like JS, images, fonts
+├── dist/                       # Compiled CSS & JS files (e.g. Tailwind output)
+├── node_modules/               # Node.js dependencies
+├── screenshots/                # Theme screenshots for WordPress dashboard
 │   ├── theme-folder-structure.png
 │   ├── screenshot-customizer-ui.png
 │   ├── screenshot-frontend-hero.png
 │   └── screenshot-tailwind-build.png
-├── src/
-├── footer.php
-├── front-page.php
-├── functions.php
-├── header.php
-├── index.php
-├── package.json
-├── package-lock.json
-├── postcss.config.js
-├── style.css
-├── tailwind.config.js
+├── src/                        # Source files (JS, CSS, components)
+├── footer.php                  # Theme footer template
+├── front-page.php              # Front page template
+├── functions.php               # Theme functions file (enqueue scripts, customizer, etc.)
+├── header.php                  # Theme header template
+├── index.php                   # Main template file
+├── package.json                # NPM package config
+├── package-lock.json           # NPM package lock file
+├── postcss.config.js           # PostCSS config (for Tailwind CSS)
+├── style.css                   # Main stylesheet (theme meta info + custom styles)
+├── tailwind.config.js          # Tailwind CSS configuration file
 
 ---
 
