@@ -40,7 +40,7 @@ customizer-color-switcher/
 
 | Theme Folder Structure | Customizer UI | Frontend Hero Section | Tailwind Build |
 |------------------------|--------------|-----------------------|----------------|
-| ![Theme Folder](screenshots/theme-folder-structure.png) | ![Customizer UI](screenshots/screenshot-customizer-ui.png) | ![Frontend](screenshots/frontend-hero-section.png) | ![Tailwind Build](screenshots/screenshot-tailwind-build.png) |
+| ![Theme Folder](screenshots/theme-folder-structure.png) | ![Customizer UI](screenshots/screenshot-customizer-ui.png) | ![Frontend](screenshots/screenshot-frontend-hero.png) | ![Tailwind Build](screenshots/screenshot-tailwind-build.png) |
 
 ---
 
