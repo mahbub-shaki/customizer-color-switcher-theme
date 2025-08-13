@@ -1,7 +1,7 @@
 # 🎨 Customizer Color Switcher Theme
 
 A WordPress theme with **Customizer color picker + live CSS variable-based color change** using Tailwind CSS.  
-Easily change the hero section title, subtitle, button text, URL, and theme colors **live** from the WordPress Customizer.
+Easily change hero section title, subtitle, button text, URL, and theme colors **live** from the WordPress Customizer.
 
 ---
 
@@ -29,13 +29,11 @@ customizer-color-switcher/
 ├── tailwind.config.js          # Tailwind CSS configuration file
 
 ---
+🖼️ Screenshots
 
-## 🖼️ Screenshots
-
-![Customizer UI](screenshots/screenshot-customizer-ui.png)
-![Frontend](screenshots/screenshot-frontend-hero.png)
-![Tailwind Build](screenshots/screenshot-tailwind-build.png)
-![Theme Folder](screenshots/theme-folder-structure.png)
+| Theme Folder Structure | Customizer UI | Frontend Hero Section | Tailwind Build |
+|------------------------|--------------|-----------------------|----------------|
+| ![Theme Folder](screenshots/theme-folder-structure.png) | ![Customizer UI](screenshots/screenshot-customizer-ui.png) | ![Frontend](screenshots/screenshot-frontend-hero.png) | ![Tailwind Build](screenshots/screenshot-tailwind-build.png) |
 
 ---
 
