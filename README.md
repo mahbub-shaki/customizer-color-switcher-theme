@@ -5,7 +5,7 @@ Easily change the hero section title, subtitle, button text, URL, and theme colo
 
 ---
 
-## 📂 Theme Folder Structure: customizer-color-switcher
+## 📂 Theme Folder Structure
 
 ```plaintext
 customizer-color-switcher/
@@ -32,27 +32,34 @@ customizer-color-switcher/
 
 ## 🖼️ Screenshots
 
-| Theme Folder Structure | Customizer UI | Frontend Hero Section | Tailwind Build |
-|------------------------|---------------|-----------------------|----------------|
-| ![Theme Folder](screenshots/theme-folder-structure.png) | ![Customizer UI](screenshots/screenshot-customizer-ui.png) | ![Frontend](screenshots/screenshot-frontend-hero.png) | ![Tailwind Build](screenshots/screenshot-tailwind-build.png) |
+![Theme Folder](https://raw.githubusercontent.com/mahbub-shaki/customizer-color-switcher-theme/main/screenshots/theme-folder-structure.png)
+![Customizer UI](https://raw.githubusercontent.com/mahbub-shaki/customizer-color-switcher-theme/main/screenshots/screenshot-customizer-ui.png)
+![Frontend](https://raw.githubusercontent.com/mahbub-shaki/customizer-color-switcher-theme/main/screenshots/screenshot-frontend-hero.png)
+![Tailwind Build](https://raw.githubusercontent.com/mahbub-shaki/customizer-color-switcher-theme/main/screenshots/screenshot-tailwind-build.png)
 
 ---
 
+⚡ Features
+🎨 Theme Color Switcher via WordPress Customizer
 
-## ⚡ Features
-- 🎨 **Theme Color Switcher** via WordPress Customizer  
-- 🖌 **Live Preview** with JavaScript & wp.customize API  
-- 💨 **Tailwind CSS Integration** with PostCSS build  
-- 📱 Fully responsive hero section layout  
-- 🛠 Easy to customize and extend
+🖌 Live Preview with JavaScript & wp.customize API
+
+💨 Tailwind CSS Integration with PostCSS build
+
+📱 Fully responsive hero section layout
+
+🛠 Easy to customize and extend
 
 ---
 
-## 📦 Installation
-1. Download or clone the repository.
-2. Place the folder inside `/wp-content/themes/`.
-3. Activate the theme from **Appearance > Themes** in WordPress.
-4. Go to **Appearance > Customize** to change hero section content & theme colors.
+📦 Installation
+Download or clone the repository.
+
+Place the folder inside /wp-content/themes/.
+
+Activate the theme from Appearance > Themes in WordPress.
+
+Go to Appearance > Customize to change hero section content & theme colors.
 
 ---
 
