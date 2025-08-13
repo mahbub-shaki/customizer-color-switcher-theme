@@ -33,9 +33,8 @@ customizer-color-switcher/
 ## 🖼️ Screenshots
 
 | Theme Folder Structure | Customizer UI | Frontend Hero Section | Tailwind Build |
-|------------------------|--------------|-----------------------|----------------|
-| ![Theme Folder](https://raw.githubusercontent.com/mahbub-shaki/customizer-color-switcher-theme/main/screenshots/theme-folder-structure.png) | ![Customizer UI](https://raw.githubusercontent.com/mahbub-shaki/customizer-color-switcher-theme/main/screenshots/screenshot-customizer-ui.png) | ![Frontend](https://raw.githubusercontent.com/mahbub-shaki/customizer-color-switcher-theme/main/screenshots/screenshot-frontend-hero.png) | ![Tailwind Build](https://raw.githubusercontent.com/mahbub-shaki/customizer-color-switcher-theme/main/screenshots/screenshot-tailwind-build.png) |
-
+|------------------------|---------------|-----------------------|----------------|
+| ![Theme Folder](screenshots/theme-folder-structure.png) | ![Customizer UI](screenshots/screenshot-customizer-ui.png) | ![Frontend](screenshots/screenshot-frontend-hero.png) | ![Tailwind Build](screenshots/screenshot-tailwind-build.png) |
 
 ---
 
