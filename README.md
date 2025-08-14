@@ -5,15 +5,15 @@ Easily change hero section title, subtitle, button text, URL, and theme colors *
 
 ---
 
-# 🎨 Theme Folder Structure – `customizer-color-switcher`
+```text
 📂 customizer-color-switcher/
 ├── 📁 assets/ # 🎯 Theme assets like JS, images, fonts
 ├── 📁 dist/ # ⚡ Compiled CSS & JS files (Tailwind output)
 ├── 📁 screenshots/ # 📸 Theme screenshots for WordPress dashboard
-│ ├── 🖼️ theme-folder-structure.png
-│ ├── 🖼️ screenshot-customizer-ui.png
-│ ├── 🖼️ screenshot-frontend-hero.png
-│ └── 🖼️ screenshot-tailwind-build.png
+│   ├── 🖼️ theme-folder-structure.png
+│   ├── 🖼️ screenshot-customizer-ui.png
+│   ├── 🖼️ screenshot-frontend-hero.png
+│   └── 🖼️ screenshot-tailwind-build.png
 ├── 📁 src/ # 🛠 Source files (JS, CSS, components)
 ├── 📄 footer.php # 🔻 Theme footer template
 ├── 📄 front-page.php # 🏠 Front page template
@@ -25,6 +25,8 @@ Easily change hero section title, subtitle, button text, URL, and theme colors *
 ├── 📄 postcss.config.js # 🧵 PostCSS config (Tailwind CSS)
 ├── 📄 style.css # 🎨 Main stylesheet (theme meta info + custom styles)
 └── 📄 tailwind.config.js # 🎯 Tailwind CSS configuration file
+
+```
 ---
 
 ## 🖼️ Screenshots
